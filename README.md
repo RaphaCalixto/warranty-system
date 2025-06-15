@@ -81,4 +81,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Raphael Calixto
 - GitHub: [@RaphaCalixto](https://github.com/RaphaCalixto)
-- Email: raphacalixto10@gmail.com 
+- Email: raphacalixto10@gmail.com
+
+## 📷 Imagem de Demonstração
+ ![Dashboard](https://i.imgur.com/Zxmzi7L.jpeg)
